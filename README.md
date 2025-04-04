@@ -1,6 +1,6 @@
 # HR-Attrition
 
-![](Introduction.png)
+![](HR.png)
 ___
 
 ## Introduction
