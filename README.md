@@ -1,4 +1,4 @@
-# HR-Attrition
+# HR Attrition And workers Satifaction
 
 ![](HR.png)
 ___
@@ -74,27 +74,20 @@ Features:
 
 
 ### Recommendation
-1. Investigate Underlying Causes of Attrition Among ‘Satisfied’ Employees:
-   - Conduct qualitative surveys or exit interviews to explore why employees who report satisfaction still leave the company.
-
-2. Enhance the Physical and Psychological Work Environment:
-   - Improve office ergonomics, reduce noise, provide wellness programs, and address reported issues in environment satisfaction.
-
-3. Develop Targeted Engagement Programs:
-   - Focus on employees with “Moderate” involvement by offering growth opportunities, role clarity, and recognition programs to deepen engagement.
-
-4. Address Performance Issues Through Training and Support:
-   - Implement mentorship and development programs for low-performing employees rather than letting them attrite without intervention.
-
-5. Reassess Work-Life Balance Policies:
-   - Introduce flexible schedules, remote work options, and workload management to reduce stress and enhance overall balance.
-
-6. Review Management and Team Relationship Practices:
-   - Train managers on emotional intelligence, feedback delivery, and relationship-building to improve team cohesion and employee satisfaction.
-
-7. Implement Predictive Analytics for Early Attrition Detection:
-   - Use data models to flag high-risk employees based on their satisfaction, performance, and involvement scores for early intervention.
-
-8. Increase Transparency and Communication Across All Levels:
-   - Encourage open dialogue about job expectations, career paths, and organizational changes to build trust and reduce uncertainty-driven exits.
+1. **Investigate Underlying Causes of Attrition Among ‘Satisfied’ Employees**:
+Conduct qualitative surveys or exit interviews to explore why employees who report satisfaction still leave the company.
+2. **Enhance the Physical and Psychological Work Environment**:
+Improve office ergonomics, reduce noise, provide wellness programs, and address reported issues in environment satisfaction.
+3. **Develop Targeted Engagement Programs**:
+Focus on employees with “Moderate” involvement by offering growth opportunities, role clarity, and recognition programs to deepen engagement.
+4. **Address Performance Issues Through Training and Support**:
+Implement mentorship and development programs for low-performing employees rather than letting them attrite without intervention.
+5. **Reassess Work-Life Balance Policies**:
+Introduce flexible schedules, remote work options, and workload management to reduce stress and enhance overall balance.
+6. **Review Management and Team Relationship Practices**:
+Train managers on emotional intelligence, feedback delivery, and relationship-building to improve team cohesion and employee satisfaction.
+7. **Implement Predictive Analytics for Early Attrition Detection**:
+Use data models to flag high-risk employees based on their satisfaction, performance, and involvement scores for early intervention.
+8. **Increase Transparency and Communication Across All Levels**:
+Encourage open dialogue about job expectations, career paths, and organizational changes to build trust and reduce uncertainty-driven exits.
 
