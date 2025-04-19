@@ -1,6 +1,6 @@
 # HR Attrition And workers Satifaction
 
-![](HR.png)
+![](workers.jpg)
 ___
 
 ## Introduction
